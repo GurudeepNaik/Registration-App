@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "name": "Spoorti Naik",
+      "phone": "8861128645",
+      "email": "Gurudeepnaik@gmail.com",
+      "company": "tata",
+      "id": 3
+    },
+    {
+      "name": "Ravikiran",
+      "phone": "8861128645",
+      "email": "Gurudeepnaik@gmail.com",
+      "company": "infosys",
+      "id": 12
+    }
+  ]
+}
